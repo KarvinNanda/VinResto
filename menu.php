@@ -14,8 +14,6 @@
         include 'header.php';
         include 'connect.php';
         $arr=array();
-        // $_SESSION['nama']="yes";
-        // echo $_SESSION['nama'];
         $count=0;
     ?>
 
