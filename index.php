@@ -41,7 +41,7 @@
 
     <div class="but">
             <div>
-            <a href=""><button>SEE MORE</button></a>
+            <a href="menu"><button>SEE MORE</button></a>
             </div>
         </div>
 
